@@ -8,7 +8,5 @@
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
-alias config='/usr/bin/git --git-dir=$HOME/dotfiles_i3/ --work-tree=$HOME' 
-
 neofetch
 fish
