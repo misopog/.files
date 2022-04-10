@@ -1,6 +1,4 @@
-# dotfiles_i3
-
-My dotfiles for I3-gaps
+# My .files for I3-gaps
 
 Packages needed 
 
